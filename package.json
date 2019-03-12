@@ -1,7 +1,9 @@
 {
   "name": "nuxt-mvp",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.4.5"
